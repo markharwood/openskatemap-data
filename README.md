@@ -74,6 +74,18 @@ The best place to fix individual park data is at the source:
   improves the commons for everyone, us included. However, names used on sk8tags.com are 
   those agreed on by the skater community and may differ from those used by OSM. 
 
+
+## Getting involved.
+At this early stage a close inspection of the data will reveal many skateparks lack a proper name.
+However, at sk8tags.com we are assembling a community of committed maintainers from the 
+global skate community to take direct control over editing the data. Maintainers are
+vetted members of the skate community and sk8tags.com provides a dedicated platform 
+for them to edit park data directly or process anonymous change request submissions 
+from the wider public. Each maintainer can focus on their local area and using their local
+knowledge to give on-the-ground updates to changing data.
+DM @sk8_tags at instagram to get involved
+
+
 ## Using the data
 
 ```bash
