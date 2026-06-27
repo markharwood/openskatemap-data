@@ -1,10 +1,14 @@
-This openskatemap dataset (parks.geojson, parks.csv) is made available under
+This sk8tags.com dataset (parks.geojson, parks.csv) is made available under
 the Open Database License (ODbL) v1.0:
 https://opendatacommons.org/licenses/odbl/1.0/
 
 Contains data derived from OpenStreetMap.
 (c) OpenStreetMap contributors - https://www.openstreetmap.org/copyright
 OpenStreetMap data is licensed under the Open Database License (ODbL).
+
+When publicly using this data or a derivative, please attribute:
+  "Skatepark data from sk8tags.com,
+   (c) OpenStreetMap contributors, licensed under ODbL."
 
 Because the majority of these parks were seeded from an OpenStreetMap extract,
 this derived dataset is published under ODbL as an inherited share-alike
